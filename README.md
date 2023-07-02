@@ -1,5 +1,10 @@
 <img width="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/J_P_Morgan_Logo_2008_1.svg/1280px-J_P_Morgan_Logo_2008_1.svg.png">
 
+
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/qBraid/python-training.git)
+
+
+
 # Python Training
 **This Python training is for JPMorgan business analysts and traders, as well as select clients.**
 
